@@ -3,3 +3,6 @@
 ### This is a h3 header
 ###### This is a h6 header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` python
+myVar = "Hello, world!";
+```
